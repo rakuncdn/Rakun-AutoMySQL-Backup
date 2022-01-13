@@ -1,2 +1,2 @@
 # Rakun AutoMySQL Backup
- You can create MySQL backup jobs with this tool. by Rakun for customers.
+ You can create Auto SQL Backup jobs from this tool. You can see how you can create jobs from here.
