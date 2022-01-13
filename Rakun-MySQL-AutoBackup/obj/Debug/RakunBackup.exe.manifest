@@ -103,14 +103,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RakunBackup.exe" size="201168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RakunBackup.exe" size="200656">
       <assemblyIdentity name="RakunBackup" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kmvCfpeRTlpdPkd51YVjjGgc4Ou6DactDp/WZeXZ8T8=</dsig:DigestValue>
+        <dsig:DigestValue>0Q9G5WDKxhNYfsIGZdou89DVilHlL36nddfrHO8EHdM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
