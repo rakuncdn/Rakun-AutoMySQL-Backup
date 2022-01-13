@@ -1,0 +1,50 @@
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\RakunBackup.exe.config
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\RakunBackup.exe.manifest
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\RakunBackup.application
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\RakunBackup.exe
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\RakunBackup.pdb
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\Google.Protobuf.dll
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\MySql.Data.dll
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\MySqlBackup.dll
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\Renci.SshNet.dll
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\Google.Protobuf.xml
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\MySql.Data.xml
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\bin\Debug\Renci.SshNet.xml
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.Form1.resources
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.Properties.Resources.resources
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.csproj.GenerateResource.cache
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.TrustInfo.xml
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.exe.manifest
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.application
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.csproj.CopyComplete
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.exe
+C:\Users\vNoisy\source\repos\RakunBackup\RakunBackup\obj\Debug\RakunBackup.pdb
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.csproj.AssemblyReference.cache
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.Form1.resources
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.Properties.Resources.resources
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.csproj.GenerateResource.cache
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.csproj.CoreCompileInputs.cache
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.exe
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.pdb
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.TrustInfo.xml
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.exe.manifest
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\RakunBackup.exe.config
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\RakunBackup.exe.manifest
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\RakunBackup.application
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\RakunBackup.exe
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\RakunBackup.pdb
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\Google.Protobuf.dll
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\MySql.Data.dll
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\MySqlBackup.dll
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\Renci.SshNet.dll
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\Google.Protobuf.xml
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\MySql.Data.xml
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\bin\Debug\Renci.SshNet.xml
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.application
+C:\Users\Hakkı OPAK\Desktop\RAKUNCDN GİTLAB\RakunBackup\RakunBackup\obj\Debug\RakunBackup.csproj.CopyComplete
