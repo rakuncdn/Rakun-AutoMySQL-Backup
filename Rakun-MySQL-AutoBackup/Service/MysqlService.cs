@@ -15,7 +15,7 @@ namespace RakunBackup.Service
         {
             var startupPath = Application.StartupPath;
             var constring = "server=" + model.server + ";user id=" + model.username + ";port=" + model.port + ";password=" + model.password + ";persistsecurityinfo=True;database=" + model.database + ";charset=utf8;";
-            var file = startupPath + @"\backup\" + DateTime.Now.ToString("mm-dd-yyyy_") + DateTime.Now.ToString("HH-mm-ss") + ".sql";
+            var file = startupPath + @"\backup\" + DateTime.Now.ToString("MM-dd-yyyy_") + DateTime.Now.ToString("HH-mm-ss") + ".sql";
             try
             {
                 using (MySqlConnection conn = new MySqlConnection(constring))

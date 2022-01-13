@@ -25,7 +25,7 @@ namespace RakunBackup.Service
                     mail.To.Add(item);
                 }
                 mail.Subject = model.subject;
-                mail.Body = DateTime.Now.ToString("dd-MM-yyyy ") + "tarihinde " + "saat " + DateTime.Now.ToString("HH-mm") + " de" + model.body;
+                mail.Body = DateTime.Now.ToString("dd-MM-yyyy ") + "tarihinde " + "saat " + DateTime.Now.ToString("HH-mm") + " da" + model.body;
 
                 SmtpServer.Port = 587;
                 SmtpServer.Credentials = new System.Net.NetworkCredential(model.senderemail, model.password);

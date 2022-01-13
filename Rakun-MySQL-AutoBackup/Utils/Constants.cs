@@ -11,7 +11,7 @@ namespace RakunBackup.Utils
         public static string ConfigFile = "config.json";
         
         public static string BackupFolder = @"\\backup";
-        public static string ConfigError = "Config dosyasına ulaşılamadı/erişilemedi. Lütfen config dosyasının yetkilendirme ayarlarını kontrol edin/programı yönetici olarak çalıştırın.";
+        public static string ConfigError = "Config dosyanızda hatalı yerler var lütfen kontrol ediniz.";
         public static string MysqlError = "MySql backup sırasında bir hata oluştu.";
         public static string SuccessFtpEmailError = "Yedekleme Başarılı! Dosya FTP'ye yüklendi ve bilgilendirme maili iletildi.";
         public static string SuccessEmailError = "Yedeklendi ve Email ile bilgilendirme gönderildi.";
